@@ -1,3 +1,4 @@
 - [An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks](https://github.com/humphd/have-fun-with-machine-learning)
 - [machine learning algorithms](https://github.com/loganfreeman/MLAlgorithms)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby#sparkles-tutorials)
