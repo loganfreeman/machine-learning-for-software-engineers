@@ -1,2 +1,3 @@
 - [Machine Learning in Action 源码](https://github.com/apachecn/MachineLearning)
 - [Share my code during learning machine learning and data mining](https://github.com/MashiMaroLjc/ML-and-DM-in-action)
+- [Machine Learning in Action 个人阅读笔记](https://github.com/JaySon-Huang/MachineLearningInAction)
