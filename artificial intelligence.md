@@ -1,1 +1,2 @@
 - [人工智能经典算法Python实现](https://github.com/lufo816/ArtificialIntelligence)
+- [A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
