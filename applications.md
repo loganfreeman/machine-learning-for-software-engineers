@@ -1,0 +1,1 @@
+- [Gender guess for Chinese names in Pinyin](https://github.com/jiajianzhou/chgender)
