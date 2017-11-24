@@ -2,3 +2,4 @@
 - [A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
 - [The artificial intelligence code accompanying the book "Artificial Intelligence for Games"](https://github.com/idmillington/aicore)
 - [Javascript code for the book Artificial Intelligence: A Modern Approach](https://github.com/prabod/aima-Javascript)
+- [Game written in JavaScript for learning JavaScript and artificial intelligence](https://github.com/olistic/warriorjs)
